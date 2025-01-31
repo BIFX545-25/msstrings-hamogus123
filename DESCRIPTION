@@ -1,11 +1,10 @@
-Package: msstrings-hamogus123
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Package: MSstrings
+Title: Retrieve and present the peptide modifications from the Spectronut output.
+Version: 0.0.1
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Hamere", "Mogus", email="ham14@hood.edu", role = c("aut", "cre"))
+Description: Retrieve and present the peptide modifications from the Spectronut output.
+License: `use_mit_license()`, 'use_gpl3_license()'
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
