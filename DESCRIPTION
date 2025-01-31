@@ -4,7 +4,7 @@ Version: 0.0.1
 Authors@R: 
     person("Hamere", "Mogus", email="ham14@hood.edu", role = c("aut", "cre"))
 Description: Retrieve and present the peptide modifications from the Spectronut output.
-License: `use_mit_license()`, 'use_gpl3_license()'
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
