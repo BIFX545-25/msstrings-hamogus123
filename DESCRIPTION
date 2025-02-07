@@ -1,10 +1,16 @@
 Package: MSstrings
-Title: Retrieve and present the peptide modifications from the Spectronut output.
+Title: Retrieve and present the peptide modifications from the Spectronut output
 Version: 0.0.1
 Authors@R: 
     person("Hamere", "Mogus", email="ham14@hood.edu", role = c("aut", "cre"))
 Description: Retrieve and present the peptide modifications from the Spectronut output.
 License: MIT + file LICENSE
+BiocViews:
+Imports: 
+  Biostrings,
+  dplyr,
+  purrr,
+  stringr
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
