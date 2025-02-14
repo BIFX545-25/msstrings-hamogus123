@@ -5,6 +5,7 @@ Authors@R:
     person("Hamere", "Mogus", email="ham14@hood.edu", role = c("aut", "cre"))
 Description: Retrieve and present the peptide modifications from the Spectronut output.
 License: MIT + file LICENSE
+Depends: R (>= 2.10)
 BiocViews:
 Imports: 
   Biostrings,
@@ -14,3 +15,6 @@ Imports:
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
